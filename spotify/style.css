@@ -37,7 +37,7 @@ nav ul li {
   min-height: 65vh;
   background-color: black;
   color: white;
-  font-family: "Varela round", sans-serif;
+  font-family: "Varela Round", sans-serif;
   display: flex;
   width: 70%;
   margin: 23px auto;
@@ -64,6 +64,7 @@ nav ul li {
 }
 #progressBar {
   width: 80vw;
+  cursor: pointer;
 }
 .songItemContainer {
   margin-top: 45px;
@@ -93,6 +94,7 @@ nav ul li {
 .songInfo {
   position: absolute;
   left: 10vw;
+  font-family: "Varela Round", sans-serif;
 }
 .songInfo img {
   opacity: 0;
