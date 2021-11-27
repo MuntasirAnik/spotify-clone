@@ -68,6 +68,8 @@ nav ul li {
 }
 .songItemContainer {
   margin-top: 45px;
+  display: inline-block;
+  width: 450px;
 }
 .songItem {
   height: 50px;
@@ -98,5 +100,5 @@ nav ul li {
 }
 .songInfo img {
   opacity: 0;
-  transition: opacity 1s ease-in;
+  transition: opacity 0s ease-in;
 }
